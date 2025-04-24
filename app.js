@@ -12,6 +12,7 @@ for (let row of seatingChart) {
 }
 ================================================= */
 
+/* =================================================
 const testObject = {
     mori: 20,
     takahashi: 30,
@@ -28,3 +29,5 @@ for (let name of Object.values(testObject)) {
 for (let name in testObject) {
     console.log(name)
 }
+================================================= */
+
